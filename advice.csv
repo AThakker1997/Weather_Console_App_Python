@@ -1,0 +1,42 @@
+Main,Description,Blue hour,Golden Hour,Morning,Afternoon,Evening,Night
+Drizzle,light intensity drizzle,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Drizzle,drizzle,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Drizzle,heavy intensity drizzle,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Drizzle,light intensity drizzle rain,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Drizzle,drizzle rain,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Drizzle,heavy intensity drizzle rain,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Drizzle,shower rain and drizzle,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Drizzle,heavy shower rain and drizzle,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Drizzle,shower drizzle,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Rain,light rain,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Rain,moderate rain,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Rain,light intensity shower rain,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Rain,shower rain,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Rain,heavy intensity shower rain,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Rain,ragged shower rain,Avoid,Avoid,Avoid,Avoid,Rainy evening,Rainy evening
+Snow,light snow,Snowy,Snowy,Snowy,Snowy,Snowy,Avoid
+Snow,snow,Snowy,Snowy,Snowy,Snowy,Snowy,Avoid
+Snow,heavy snow,Snowy,Snowy,Snowy,Snowy,Snowy,Avoid
+Snow,sleet,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Snow,light shower sleet,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Snow,shower sleet,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Snow,light rain and snow,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Snow,rain and snow,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Snow,light shower snow,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Snow,shower snow,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Snow,heavy shower snow,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Mist,mist,Mist,Mist,Mist,Mist,Mist,Avoid
+Smoke,smoke,Smoke,Smoke,Smoke,Smoke,Smoke,Avoid
+Haze,haze,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Dust,sand/dust whirls,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Fog,fog,Fog,Fog,Fog,Fog,Fog,Avoid
+Sand,sand,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Dust,dust,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Ash,volcanic ash,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Squall,squalls,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Tornado,tornado,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Clear,clear sky,Blue hour,Golden hour,Clear morning/evening,Sunny day,Clear morning/evening,Avoid
+Clouds,few clouds,Blue hour,Golden hour,Clear morning/evening,Scattered clouds daytime,Clear morning/evening,Avoid
+Clouds,scattered clouds,Blue hour,Overcast,Overcast,Overcast,Overcast,Avoid
+Clouds,broken clouds,Blue hour,Overcast,Overcast,Overcast,Overcast,Avoid
+Clouds,overcast clouds,Blue hour,Overcast,Overcast,Overcast,Overcast,Avoid

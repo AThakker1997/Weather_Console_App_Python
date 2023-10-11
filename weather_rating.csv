@@ -1,0 +1,56 @@
+Main,Description,Blue hour,Golden Hour,Morning,Afternoon,Evening,Night
+Thunderstorm,thunderstorm with light rain,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Thunderstorm,thunderstorm with rain,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Thunderstorm,thunderstorm with heavy rain,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Thunderstorm,light thunderstorm,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Thunderstorm,thunderstorm,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Thunderstorm,heavy thunderstorm,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Thunderstorm,ragged thunderstorm,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Thunderstorm,thunderstorm with light drizzle,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Thunderstorm,thunderstorm with drizzle,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Thunderstorm,thunderstorm with heavy drizzle,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Drizzle,light intensity drizzle,Avoid,Avoid,Avoid,Avoid,Okay,Okay
+Drizzle,drizzle,Avoid,Avoid,Avoid,Avoid,Okay,Okay
+Drizzle,heavy intensity drizzle,Avoid,Avoid,Avoid,Avoid,Okay,Okay
+Drizzle,light intensity drizzle rain,Avoid,Avoid,Avoid,Avoid,Okay,Okay
+Drizzle,drizzle rain,Avoid,Avoid,Avoid,Avoid,Okay,Okay
+Drizzle,heavy intensity drizzle rain,Avoid,Avoid,Avoid,Avoid,Okay,Okay
+Drizzle,shower rain and drizzle,Avoid,Avoid,Avoid,Avoid,Okay,Okay
+Drizzle,heavy shower rain and drizzle,Avoid,Avoid,Avoid,Avoid,Not great,Not great
+Drizzle,shower drizzle,Avoid,Avoid,Avoid,Avoid,Okay,Okay
+Rain,light rain,Avoid,Avoid,Avoid,Avoid,Not great,Not great
+Rain,moderate rain,Avoid,Avoid,Avoid,Avoid,Not great,Not great
+Rain,heavy intensity rain,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Rain,very heavy rain,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Rain,extreme rain,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Rain,freezing rain,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Rain,light intensity shower rain,Avoid,Avoid,Avoid,Avoid,Okay,Okay
+Rain,shower rain,Avoid,Avoid,Avoid,Avoid,Okay,Okay
+Rain,heavy intensity shower rain,Avoid,Avoid,Avoid,Avoid,Okay,Okay
+Rain,ragged shower rain,Avoid,Avoid,Avoid,Avoid,Okay,Okay
+Snow,light snow,Very good,Very good,Very good,Very good,Very good,Avoid
+Snow,snow,Very good,Very good,Very good,Very good,Very good,Avoid
+Snow,heavy snow,Very good,Very good,Very good,Very good,Very good,Avoid
+Snow,sleet,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Snow,light shower sleet,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Snow,shower sleet,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Snow,light rain and snow,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Snow,rain and snow,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Snow,light shower snow,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Snow,shower snow,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Snow,heavy shower snow,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Mist,mist,Very good,Very good,Very good,Good,Very good,Avoid
+Smoke,smoke,Good,Good,Good,Good,Good,Avoid
+Haze,haze,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Dust,sand/dust whirls,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Fog,fog,Good,Good,Good,Good,Good,Avoid
+Sand,sand,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Dust,dust,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Ash,volcanic ash,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Squall,squalls,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Tornado,tornado,Avoid,Avoid,Avoid,Avoid,Avoid,Avoid
+Clear,clear sky,Very good,Very good,Okay,Okay,Okay,Avoid
+Clouds,few clouds,Very good,Very good,Good,Good,Good,Avoid
+Clouds,scattered clouds,Very good,Very good,Good,Good,Good,Avoid
+Clouds,broken clouds,Good,Okay,Good,Good,Good,Avoid
+Clouds,overcast clouds,Good,Okay,Good,Good,Good,Avoid
